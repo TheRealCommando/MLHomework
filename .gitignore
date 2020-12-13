@@ -1,1 +1,5 @@
 .vscode/launch.json
+*.png
+*.gif
+*__pycache__/
+*training_checkpoints/
